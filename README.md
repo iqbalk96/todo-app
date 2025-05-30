@@ -35,7 +35,7 @@ src/
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/iqbalk96/todo-app.git
 cd todo-app
 
 # Install dependencies
